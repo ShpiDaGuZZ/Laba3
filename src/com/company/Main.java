@@ -11,7 +11,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 
-public class MainFrame extends JFrame {
+class MainFrame extends JFrame {
     private static final int WIDTH = 700;
     private static final int HEIGHT = 500;
 
